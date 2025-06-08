@@ -1,3 +1,5 @@
+# Luiz Fernando Moreira Domênico
+
 ### 📊 Estatísticas
 
 <p>
@@ -6,7 +8,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lfdomenico&show_icons=true)" 
   />
 
 <img 
